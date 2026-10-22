@@ -1,4 +1,4 @@
-# NEURAL — AI News Hub
+# World Context  — AI News Hub
 
 A new 12-page website project created for a website design assignment using **HTML and CSS only**. No JavaScript, frontend framework, or backend is used.
 
